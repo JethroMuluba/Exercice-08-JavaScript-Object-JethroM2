@@ -5,7 +5,8 @@ module.exports = {
   menu,
 }
 
-//Création un object vide
+//Create an empty object
 const menu = {
-
+  //Create a _meal property
+  _meal: "",
 };
